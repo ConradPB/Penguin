@@ -1,0 +1,23 @@
+{
+  "name": "penguin",
+  "version": "1.0.0",
+  "description": "Penguin created using css transform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-rizz/Penguin.git"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Conrad P Bugingo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/G-rizz/Penguin/issues"
+  },
+  "homepage": "https://github.com/G-rizz/Penguin#readme"
+}
