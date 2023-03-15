@@ -301,7 +301,6 @@ body {
   width: 50%;
   height: 50px;
   background-color: rgba(199, 199, 199, 0.2);
-
   transform: translateY(50px);
   animation: animate2 8s linear 1;
   animation-delay: 7s;
@@ -316,9 +315,6 @@ body {
   border-radius: 5px;
   
 }
-
-
-
 
 
 @keyframes animate1 {
